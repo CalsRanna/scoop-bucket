@@ -1,10 +1,10 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "description": "A command-line tool for automating Homebrew/Scoop package publishing.",
     "homepage": "https://github.com/CalsRanna/auto_pour",
     "license": "MIT",
-    "url": "https://github.com/CalsRanna/auto_pour/releases/download/v1.3.0/tapster-windows.exe",
-    "hash": "sha256:caa77596594d8c8758e4fdbbafb0a972fcd03c7048d9da2b99f44cd85b11e46e",
+    "url": "https://github.com/CalsRanna/auto_pour/releases/download/v1.3.1/tapster-windows.exe",
+    "hash": "sha256:62f1249d0c43f4873a90087da63d941ce83e4b1b9bdcc36da5d5ab31ae0200ff",
     "bin": [
         [
             "tapster-windows.exe",
@@ -17,7 +17,7 @@
     "autoupdate": {
         "url": "https://github.com/CalsRanna/auto_pour/releases/download/v$version/tapster-windows.exe",
         "hash": {
-            "url": "https://github.com/CalsRanna/auto_pour/releases/download/v1.3.0/tapster-windows.exe.sha256"
+            "url": "https://github.com/CalsRanna/auto_pour/releases/download/v1.3.1/tapster-windows.exe.sha256"
         }
     }
 }
