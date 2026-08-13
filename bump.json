@@ -17,7 +17,8 @@
     "autoupdate": {
         "url": "https://github.com/CalsRanna/auto_version/releases/download/v$version/bump-windows.exe",
         "hash": {
-            "url": "https://github.com/CalsRanna/auto_version/releases/download/v1.0.1/bump-windows.exe.sha256"
+            "url": "https://api.github.com/repos/CalsRanna/auto_version/releases/tags/v$version",
+            "jsonpath": "$.assets[?(@.name=='bump-windows.exe')].digest"
         }
     }
 }
