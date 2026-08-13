@@ -17,7 +17,8 @@
     "autoupdate": {
         "url": "https://github.com/CalsRanna/code_proxy/releases/download/v$version/CodeProxy-Windows.zip",
         "hash": {
-            "url": "https://github.com/CalsRanna/code_proxy/releases/download/v1.6.5/CodeProxy-Windows.zip.sha256"
+            "url": "https://api.github.com/repos/CalsRanna/code_proxy/releases/tags/v$version",
+            "jsonpath": "$.assets[?(@.name=='CodeProxy-Windows.zip')].digest"
         }
     },
     "shortcuts": [
