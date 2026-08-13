@@ -17,7 +17,8 @@
     "autoupdate": {
         "url": "https://github.com/CalsRanna/auto_reflect/releases/download/v$version/journal-windows.exe",
         "hash": {
-            "url": "https://github.com/CalsRanna/auto_reflect/releases/download/v2.3.1/journal-windows.exe.sha256"
+            "url": "https://api.github.com/repos/CalsRanna/auto_reflect/releases/tags/v$version",
+            "jsonpath": "$.assets[?(@.name=='journal-windows.exe')].digest"
         }
     }
 }
