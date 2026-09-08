@@ -1,10 +1,10 @@
 {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "description": "Automatic Git work log generator with AI analysis.",
     "homepage": "https://github.com/CalsRanna/auto_reflect",
     "license": "MIT",
-    "url": "https://github.com/CalsRanna/auto_reflect/releases/download/v2.3.1/journal-windows.exe",
-    "hash": "sha256:8ff15109c57434cd9514bd77955a555859b6574876fd20abf81d59c635e36f60",
+    "url": "https://github.com/CalsRanna/auto_reflect/releases/download/v2.3.2/journal-windows.exe",
+    "hash": "sha256:ec0314f71b04e252637c0814e0758aae9d6b42132a3523324f607a3e32a3a166",
     "bin": [
         [
             "journal-windows.exe",
