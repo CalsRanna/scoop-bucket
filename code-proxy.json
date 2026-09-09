@@ -4,7 +4,7 @@
     "homepage": "https://github.com/CalsRanna/code_proxy",
     "license": "MIT",
     "url": "https://github.com/CalsRanna/code_proxy/releases/download/v3.1.2/CodeProxy-Windows.zip",
-    "hash": "sha256:313329366cedf1300b102a6cd9c8d73a75b1474bb1d49602a6a2cc010037b425",
+    "hash": "sha256:ee749239ad7ab5f0429954987986277cb125cfb15edf4bfff0ba91a246d98a39",
     "bin": [
         [
             "CodeProxy-Windows.exe",
