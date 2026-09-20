@@ -1,10 +1,10 @@
 {
-    "version": "1.0.16",
+    "version": "1.0.17",
     "description": "AI-powered Conventional Commits Generator",
     "homepage": "https://github.com/CalsRanna/auto_commit",
     "license": "MIT",
-    "url": "https://github.com/CalsRanna/auto_commit/releases/download/v1.0.16/flit-windows.exe",
-    "hash": "sha256:4f03bceda2207bb3f91ea993137272507f0c80f4d117064bb34d86c80562a712",
+    "url": "https://github.com/CalsRanna/auto_commit/releases/download/v1.0.17/flit-windows.exe",
+    "hash": "sha256:c09a6932a7b3eeaa3687a35de327de57d6794ab04eec45fbc592c98ea02dde30",
     "bin": [
         [
             "flit-windows.exe",
