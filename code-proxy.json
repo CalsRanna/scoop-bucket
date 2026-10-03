@@ -1,10 +1,10 @@
 {
-    "version": "3.1.6",
+    "version": "3.1.7",
     "description": "Anthropic API proxy manager for Claude Code. Supports macOS, Windows, and Linux.",
     "homepage": "https://github.com/CalsRanna/code_proxy",
     "license": "MIT",
-    "url": "https://github.com/CalsRanna/code_proxy/releases/download/v3.1.6/CodeProxy-Windows.zip",
-    "hash": "sha256:e1eb889eb5d04e3e40de8759103f34d9ab8215aa093434bf0dc5b08ce8de0f26",
+    "url": "https://github.com/CalsRanna/code_proxy/releases/download/v3.1.7/CodeProxy-Windows.zip",
+    "hash": "sha256:123f422cae90ee508501a6956ee1bf7057c0f18cd947a18299034925e1d3bf06",
     "bin": [
         [
             "CodeProxy-Windows.exe",
